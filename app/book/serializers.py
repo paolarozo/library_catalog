@@ -2,8 +2,8 @@
 Serializers for book APIS
 """
 
-from rest_framework import serializers
 from core.models import Book
+from rest_framework import serializers
 
 
 class BookSerializer(serializers.ModelSerializer):
