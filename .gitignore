@@ -95,6 +95,7 @@ ipython_config.py
 __pypackages__/
 
 # Celery stuff
+# Celery stuff
 celerybeat-schedule
 celerybeat.pid
 
@@ -127,3 +128,7 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+
+.DS_Store
+.idea
